@@ -11,7 +11,8 @@ PARTICIPANTS = [
 
 
 def main():
-    # print all names
+    # print header and all names
+    print("Names:")
     for participant in PARTICIPANTS:
         print(participant)
 
