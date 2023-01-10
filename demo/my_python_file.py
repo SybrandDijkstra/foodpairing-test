@@ -6,10 +6,12 @@ PARTICIPANTS = [
     'Daan',
     'Marc',
     'Stijn',
+    'Sybrand'
 ]
 
 
 def main():
+    # print all names
     for participant in PARTICIPANTS:
         print(participant)
 
