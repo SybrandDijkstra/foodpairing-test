@@ -11,8 +11,9 @@ PARTICIPANTS = [
 
 
 def main():
-    # print all names
+    # print all names twice
     for participant in PARTICIPANTS:
+        print(participant)
         print(participant)
 
 
